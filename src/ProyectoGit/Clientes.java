@@ -9,6 +9,10 @@ package ProyectoGit;
  * @author eddyp
  */
 public class Clientes {
+
+    public Clientes() {
+        
+    }
     
     
 }
